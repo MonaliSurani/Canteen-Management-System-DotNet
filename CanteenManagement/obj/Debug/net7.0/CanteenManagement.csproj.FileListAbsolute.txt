@@ -1,0 +1,1270 @@
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.json
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.staticwebassets.runtime.json
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.exe
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.deps.json
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.runtimeconfig.json
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.pdb
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Humanizer.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Common.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.AssemblyReference.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfoInputs.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfo.cs
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CoreCompileInputs.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cs
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.CanteenManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.CanteenManagement.props
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CanteenManagement.props
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CanteenManagement.props
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\bundle\CanteenManagement.styles.css
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\projectbundle\CanteenManagement.bundle.scp.css
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CopyComplete
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.dll
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\refint\CanteenManagement.dll
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.pdb
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.genruntimeconfig.cache
+D:\CanteenManagement\CanteenManagement\obj\Debug\net7.0\ref\CanteenManagement.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.staticwebassets.runtime.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.exe
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.deps.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.runtimeconfig.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.pdb
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfo.cs
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cs
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.CanteenManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.CanteenManagement.props
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CanteenManagement.props
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CanteenManagement.props
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\bundle\CanteenManagement.styles.css
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\projectbundle\CanteenManagement.bundle.scp.css
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CopyComplete
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\refint\CanteenManagement.dll
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.pdb
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.genruntimeconfig.cache
+C:\Users\Sony\Desktop\canteenManagement\CanteenManagement\obj\Debug\net7.0\ref\CanteenManagement.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.staticwebassets.runtime.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.exe
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.deps.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.runtimeconfig.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\CanteenManagement.pdb
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.AssemblyReference.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfoInputs.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfo.cs
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CoreCompileInputs.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cs
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.CanteenManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.CanteenManagement.props
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CanteenManagement.props
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CanteenManagement.props
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\bundle\CanteenManagement.styles.css
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\scopedcss\projectbundle\CanteenManagement.bundle.scp.css
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CopyComplete
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\refint\CanteenManagement.dll
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.pdb
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\CanteenManagement.genruntimeconfig.cache
+C:\Users\TYAGI\Desktop\CanteenManagement\CanteenManagement\obj\Debug\net7.0\ref\CanteenManagement.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\appsettings.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.staticwebassets.runtime.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.exe
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.deps.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.runtimeconfig.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\CanteenManagement.pdb
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Humanizer.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Common.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.AssemblyReference.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfoInputs.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfo.cs
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CoreCompileInputs.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cs
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.CanteenManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.CanteenManagement.props
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CanteenManagement.props
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CanteenManagement.props
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\scopedcss\bundle\CanteenManagement.styles.css
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\scopedcss\projectbundle\CanteenManagement.bundle.scp.css
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CopyComplete
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\refint\CanteenManagement.dll
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.pdb
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\CanteenManagement.genruntimeconfig.cache
+D:\DAC KHARGHAR\Dot Net\Project\CanteenManagement\obj\Debug\net7.0\ref\CanteenManagement.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.staticwebassets.runtime.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.exe
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.deps.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.runtimeconfig.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\CanteenManagement.pdb
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.AssemblyReference.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfoInputs.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.AssemblyInfo.cs
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.RazorAssemblyInfo.cs
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.CanteenManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.CanteenManagement.props
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CanteenManagement.props
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CanteenManagement.props
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\scopedcss\bundle\CanteenManagement.styles.css
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\scopedcss\projectbundle\CanteenManagement.bundle.scp.css
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.csproj.CopyComplete
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\refint\CanteenManagement.dll
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.pdb
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\CanteenManagement.genruntimeconfig.cache
+C:\Users\baps\Desktop\final project .net\CanteenManagement\obj\Debug\net7.0\ref\CanteenManagement.dll

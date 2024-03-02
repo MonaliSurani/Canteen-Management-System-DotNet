@@ -1,0 +1,29 @@
+﻿@model List<CanteenManagement.Models.Item>
+
+<h2>Employee dashboard</h2>
+
+<div class="container mt-3">
+    <h2>Food Items</h2>
+    <div class="card-deck">
+        @foreach (var foodItem in Model)
+        {
+            <div class="card">
+                <img class="card-img-top" alt="Food Item Image">
+                <div class="card-body">
+                    <h5 class="card-title">@foodItem.Name</h5>
+                    <p class="card-text">Price: @foodItem.Price</p>
+                    <p class="card-text">Available Items: @foodItem.AvailableItems</p>
+
+                    <form asp-action="AddToCart" asp-controller="Item" asp-route-productId="@foodItem.Id" method="post">
+                        <button type="submit" class="btn btn-primary">Add to Cart</button>
+                    </form>
+                    
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+@*<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.10.2/dist/umd/popper.min.js"></script>*@
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

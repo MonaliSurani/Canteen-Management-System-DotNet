@@ -1,0 +1,101 @@
+﻿@model List<CanteenManagement.Models.Item>
+
+
+<div class="container mt-3">
+    <h2>Food Items</h2>
+    <div class="card-deck">
+        @foreach (var foodItem in Model)
+        {
+            <div class="card">
+                <img  class="card-img-top" alt="Food Item Image">
+                <div class="card-body">
+                    <h5 class="card-title">@foodItem.Name</h5>
+                    <p class="card-text">Price: @foodItem.Price</p>
+                    <p class="card-text">Available Items: @foodItem.AvailableItems</p>
+
+                        <a onclick="editItem('@foodItem.Id')" class="btn btn-warning">Update</a>
+                        <a href="@Url.Action("DeleteItem", "Item", new { Id = foodItem.Id })" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this item?')">Delete</a>
+                    
+
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="container mt-3">
+
+    <button class="btn btn-primary float-right" data-toggle="modal" data-target="#addItemModal">Add Item</button>
+
+    <!-- Add Employee Modal -->
+    <div class="modal fade" id="addItemModal" tabindex="-1" role="dialog" aria-labelledby="addItemModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addItemModalLabel">Add Item</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Employee Form -->
+                    <form asp-action="AddItem" asp-controller="Item" method="post">
+                        <div class="form-group">
+                            <label for="Name">Item Name:</label>
+                            <input type="text" class="form-control" id="Name" name="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Price">Price:</label>
+                            <input type="number" class="form-control" id="Price" name="Price" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="AvailableItems">Available Items:</label>
+                            <input type="number" class="form-control" id="AvailableItems" name="AvailableItems" required>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Edit Employee Modal -->
+    <div class="modal fade" id="editItemModal" tabindex="-1" role="dialog" aria-labelledby="editItemModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="editItemModalLabel">Update Item</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="editItemModalBody">
+                    <!-- Employee Form -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+@*<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.10.2/dist/umd/popper.min.js"></script>*@
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    function editItem(Id) {
+        debugger;
+        // Fetch user details using AJAX and load into the modal
+        $.ajax({
+            url: '/Item/EditItem/' + Id,
+            type: 'GET',
+            success: function (data) {
+                debugger;
+                $('#editItemModalBody').html(data);
+                $('#editItemModal').modal('show');
+            },
+            error: function (ex) {
+                debugger;
+                alert('Error fetching user details.');
+            }
+        });
+    }
+</script>

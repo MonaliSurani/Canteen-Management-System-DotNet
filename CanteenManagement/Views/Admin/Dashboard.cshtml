@@ -1,0 +1,151 @@
+﻿@model CanteenManagement.ViewModels.AdminMainView
+@*<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Owner Section</h5>
+                </div>
+                <div class="card-body">
+                    <!-- Add content for the owner section -->
+                    <p>Welcome, Owner!</p>
+                    <a href="Admin/EmployeeList" class="btn btn-primary">Manage Owners</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Employee Section</h5>
+                </div>
+                <div class="card-body">
+                    <!-- Add content for the employee section -->
+                    <p>Welcome, Employee!</p>
+                    <a href="#" class="btn btn-primary">Manage Employees</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>*@
+
+<div class="container mt-3">
+    <h2>Employee List</h2>
+    <button class="btn btn-primary float-right" data-toggle="modal" data-target="#addEmployeeModal">Add User</button>
+    <br /><br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Role</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model.usersList)
+            {
+                <tr>
+                    <td>@employee.Name</td>
+                    <td>@employee.Email</td>
+                    <td>@employee.PhoneNumber</td>
+                    <td>@employee.Role</td>
+                    <td>
+                        <a  onclick="editUser('@employee.Id')" class="btn btn-warning">Edit</a>
+                        <a asp-action="DeleteUser" asp-controller="Admin" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+  
+</div>
+
+
+<div class="container mt-3">
+   
+   
+
+    <!-- Add Employee Modal -->
+    <div class="modal fade" id="addEmployeeModal" tabindex="-1" role="dialog" aria-labelledby="addEmployeeModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addEmployeeModalLabel">Add User</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Employee Form -->
+                    <form asp-action="AddUser" asp-controller="Admin" method="post">
+                        <div class="form-group">
+                            <label for="Name">Name:</label>
+                            <input type="text" class="form-control" id="Name" name="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Email">Email:</label>
+                            <input type="email" class="form-control" id="Email" name="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="PhoneNumber">Phone Number:</label>
+                            <input type="tel" class="form-control" id="PhoneNumber" name="PhoneNumber" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Password">Password:</label>
+                            <input type="password" class="form-control" id="Password" name="Password" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Role">Role:</label>
+                            <select class="form-control" id="Role" name="Role" required>
+                                <option value="Employee">Employee</option>
+                                <option value="Owner">Owner</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Edit Employee Modal -->
+    <div class="modal fade" id="editEmployeeModal" tabindex="-1" role="dialog" aria-labelledby="editEmployeeModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="editEmployeeModalLabel">Update User</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="editUserModalBody">
+                    <!-- Employee Form -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+@*<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.10.2/dist/umd/popper.min.js"></script>*@
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    function editUser(Id) {
+        debugger;
+        // Fetch user details using AJAX and load into the modal
+        $.ajax({
+            url: '/Admin/EditUser/' + Id,
+            type: 'GET',
+            success: function (data) {
+                debugger;
+                $('#editUserModalBody').html(data);
+                $('#editEmployeeModal').modal('show');
+            },
+            error: function (ex) {
+                debugger;
+                alert('Error fetching user details.');
+            }
+        });
+    }
+</script>

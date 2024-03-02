@@ -1,0 +1,29 @@
+﻿@model CanteenManagement.ViewModels.Items
+
+<div class="container mt-3">
+    <h2>Add Item</h2>
+    <form asp-action="AddItem" method="post">
+        <div class="form-group">
+            <label asp-for="Name">Name:</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Price">Price:</label>
+            <input asp-for="Price" class="form-control" type="number" step="0.01" />
+        </div>
+        <div class="form-group">
+            <label asp-for="AvailableItems">Available Items:</label>
+            <input asp-for="AvailableItems" class="form-control" type="number" />
+        </div>
+        <button type="submit" class="btn btn-primary">Add Item</button>
+    </form>
+</div>
+
+
+
+
+<!-- Add Bootstrap and jQuery scripts -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
